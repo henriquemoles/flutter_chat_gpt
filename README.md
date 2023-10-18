@@ -1,4 +1,4 @@
-# flutter_chat_gpt
+# flutter_chat_gpt 
 
 This Flutter app demonstrates how to integrate the ChatGPT API into a mobile application, allowing users to have interactive conversations with an AI-powered chatbot. This README provides instructions on setting up the app and configuring the required API key.
 
